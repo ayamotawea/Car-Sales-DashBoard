@@ -5,5 +5,18 @@
 
 
 
-<img width="997" height="558" alt="overview" src="https://github.com/user-attachments/assets/b0cf5dcd-a0ee-4859-8231-6589ba5de129" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="993" height="558" alt="details" src="https://github.com/user-attachments/assets/db29f0fb-8a35-41f3-873a-f875424768d7" />
 
